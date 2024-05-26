@@ -48,7 +48,7 @@ $$v_L=R*w_L=-0,264$$
 
 $$v_R=R*w_R=0,396$$
 
-3. Calcular la velocidad lineal y angular para que el robot realice un camino circular con un radio a elección entre 0,5m y 2,0m.
+#### 3. Calcular la velocidad lineal y angular para que el robot realice un camino circular con un radio a elección entre 0,5m y 2,0m.
 
 Se elige un $R=1m$. Esto indica que $v$ y $w$ son iguales para que la relación entre ambos de 1. Por ej: 
 
@@ -66,7 +66,7 @@ $$w_L=0,184$$
 
 
 
-4. Calcular las velocidades lineales y angulares de las ruedas (izquierda y derecha) del robot para el camino circular del punto anterior.
+#### 4. Calcular las velocidades lineales y angulares de las ruedas (izquierda y derecha) del robot para el camino circular del punto anterior.
 
 Teneniendo en cuenta el radio de la rueda (0,033 m) y con las velocidades angulares se calculan las velocidades de cada rueda con las siguientes ecuaciones:
 
@@ -74,6 +74,6 @@ $$v_L=R*w_L=0,0061$$
 
 $$v_R=R*w_R=0,0013$$
 
-5. ¿Qué sucede si se intercambian las velocidades de ruedas entre izquierda y derecha?
+#### 5. ¿Qué sucede si se intercambian las velocidades de ruedas entre izquierda y derecha?
 
 Si se intercambian las velocidades de las ruedas entre la izquierda y la derecha, el robot se moverá en un camino circular pero en la dirección opuesta. 
